@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
@@ -8,7 +8,6 @@
     background: greenyellow;
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     gap: 2rem;
     padding: 1%;
     width: 100%;
@@ -19,15 +18,13 @@
     border-radius: 2rem;
     padding: 2px 3px;
     width: fit-content;
-    /* border: none; */
 }
 .colors{
     text-align: center;
     padding: 1%;
 }
 .colors button{
-    /* background: #000;
-    color: white; */
+    
     border-radius: 2rem;
     padding: 2px 3px;
 }
@@ -37,4 +34,4 @@
     gap: 1rem;
     align-items: center;
    
-}
+} */

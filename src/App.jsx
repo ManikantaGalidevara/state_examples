@@ -7,7 +7,7 @@ import Images from "./Components/Images/Images";
 import Login from "./Components/Login/Login";
 import Signup from "./Components/Signup/Signup";
 import Theme from "./Components/theme/Theme";
-import "./Components/Navbar/Navbar.css"
+import './App.css'
 class App extends React.Component{
   constructor(){
     super();
