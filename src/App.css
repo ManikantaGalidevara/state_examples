@@ -12,6 +12,9 @@
     padding: 1%;
     width: 100%;
 }
+.navbar2{
+    background: greenyellow;
+}
 .navbar button{
     background-color: orangered;
     border-radius: 2rem;

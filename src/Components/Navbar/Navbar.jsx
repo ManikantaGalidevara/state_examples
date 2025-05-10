@@ -12,7 +12,7 @@ class Navbar extends React.Component {
   };
   render() {
     return (
-      <div >
+      <div className="navbar2">
         <div className="navbar">
           <button onClick={this.props.colorprop}>multi colors</button>
           <button onClick={this.props.otpprop}>opt generator</button>
