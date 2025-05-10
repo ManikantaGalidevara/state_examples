@@ -7,12 +7,10 @@
     height: 10vh;
     background: greenyellow;
     display: flex;
+    gap: 6px;
     align-items: center;
-    /* justify-content: center; */
-    gap: 2rem;
     padding: 1%;
     width: 100%;
-    margin-bottom: 2%;
 }
 .navbar button{
     background-color: orangered;
@@ -26,8 +24,6 @@
     padding: 1%;
 }
 .colors button{
-    /* background: #000;
-    color: white; */
     border-radius: 2rem;
     padding: 2px 3px;
 }
@@ -36,5 +32,6 @@
     flex-direction: column;
     gap: 1rem;
     align-items: center;
+    margin-top: 1%;
    
 }
